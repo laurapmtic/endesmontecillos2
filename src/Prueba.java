@@ -1,5 +1,5 @@
 
 
 public class Prueba {
-hfgdsf
+	int variable = 1;
 }
